@@ -1,0 +1,21 @@
+{
+  "name": "homework-10-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evelinakutalo/Homework-8-practice"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.43.1",
+    "playwright": "^1.43.1",
+    "playwright-chromium": "^1.43.1",
+    "test": "^3.3.0"
+  }
+}
